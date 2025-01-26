@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avni-code16
-- 👀 I’m interested in Game Dev  AI-ML Python/C/C++/Java
-- 🌱 I’m currently learning Game Developement and ML
-- 💞️ I’m looking to collaborate on Game Developement
+- 👀 I’m interested in DSA  AI-ML Python/C/C++/Java
+- 🌱 I’m currently learning  ML
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me avni9778@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am very active online and super motivated!
